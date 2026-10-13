@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1noAIZahUKSJitmTpBIxUBp7eBNjjAR3I/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 
 </div>
 
@@ -73,15 +73,6 @@ class Pragati(Developer):
 
 ---
 
-## 🏆 Highlights
-
-- 🥇 **Flipkart GRiD**: Top 1,635 teams · **ET Hackathon**: qualified · **SIH** & **Google Girl Hackathon**: cleared round 1
-- 🤝 **Nexus Spring of Code 2026**: 5+ merged PRs across multiple repos
-- 💼 **AI/ML Intern, Reagvis Labs** (Jun–Jul 2026)
-- 🧑‍🏫 **AI/ML Mentor, College Committee (CoC)**: guided a team of 4 juniors
-- 📜 **Deloitte Data Analytics Job Simulation** (Forage)
-
----
 
 ## 📊 GitHub Stats
 

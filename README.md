@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pragati+%F0%9F%91%8B;Backend+%2B+Applied+ML+Engineer;I+ship+systems%2C+not+just+notebooks" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:pragatik1710@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1noAIZahUKSJitmTpBIxUBp7eBNjjAR3I/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 
 </div>
@@ -16,7 +16,7 @@
 class Pragati(Developer):
     university = "Veermata Jijabai Technological Institute (VJTI)"
     degree     = "B.Tech – Electronics & Telecom | Minor in Data Science"
-    location   = "Mumbai, India 🇮🇳"
+    location   = "Mumbai, India"
     targeting  = ["SWE Backend", "Data Analyst"]
 
     super_powers = [

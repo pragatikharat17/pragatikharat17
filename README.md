@@ -85,4 +85,3 @@ class Pragati(Developer):
 
 ---
 
-<div align="center">📫 Open to backend & data roles · <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a></div>

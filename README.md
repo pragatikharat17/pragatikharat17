@@ -32,7 +32,7 @@ class Pragati(Developer):
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AtlasAI / ATlasAI**](https://github.com/sanikad20/ethack_genai) | Multi-agent RAG for industrial knowledge (ET AI Hackathon 2026). Knowledge, Maintenance & Lessons Learned agents, citations, conflict detection, OpenTelemetry tracing | Python, FastAPI, ChromaDB, Docker |
+| [**AtlasAI**](https://github.com/sanikad20/ethack_genai) | Multi-agent RAG for industrial knowledge (ET AI Hackathon 2026). Knowledge, Maintenance & Lessons Learned agents, citations, conflict detection, OpenTelemetry tracing | Python, FastAPI, ChromaDB, Docker |
 | [**GridLock**](https://github.com/sanikad20/Gridlock_phase2) | Traffic congestion forecaster, **Top 1,635 teams** at Flipkart GRiD. OOF target encoding, cost-matrix tuning, SHAP explainability, Streamlit + Groq chat | LightGBM, CatBoost, SHAP, Streamlit |
 | [**FaceGate**](https://github.com/yashkrishangupta/facegate-android) | On-device, offline-first face recognition with **sub-1s** recognition and a 5-stage frame quality checker (built at Reagvis Labs) | OpenCV, ML Kit, MobileFaceNet |
 | [**InSync**](https://github.com/pragatikharat17/insync-app) | Hormone-health PWA with streaming AI chat over data for **546 Indian & Western foods** | Next.js, Supabase, Vercel, Groq |

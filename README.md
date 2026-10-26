@@ -32,11 +32,11 @@ class Pragati(Developer):
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AtlasAI / AskHTE**](https://github.com/pragatikharat17/REPO_NAME) | Multi-agent RAG for industrial knowledge (ET AI Hackathon 2026). Knowledge, Maintenance & Lessons Learned agents, citations, conflict detection, OpenTelemetry tracing | Python, FastAPI, ChromaDB, Docker |
-| [**GridLock**](https://github.com/pragatikharat17/REPO_NAME) | Traffic congestion forecaster, **Top 1,635 teams** at Flipkart GRiD. OOF target encoding, cost-matrix tuning, SHAP explainability, Streamlit + Groq chat | LightGBM, CatBoost, SHAP, Streamlit |
-| [**FaceGate**](https://github.com/pragatikharat17/REPO_NAME) | On-device, offline-first face recognition with **sub-1s** recognition and a 5-stage frame quality checker (built at Reagvis Labs) | OpenCV, ML Kit, MobileFaceNet |
-| [**InSync**](https://github.com/pragatikharat17/REPO_NAME) | Hormone-health PWA with streaming AI chat over data for **546 Indian & Western foods** | Next.js, Supabase, Vercel, Groq |
-| [**BrainLag**](https://github.com/pragatikharat17/REPO_NAME) | Burnout detection on the StudentLife dataset (IEEE paper project) | MLP, LSTM, FastAPI |
+| [**AtlasAI / ATlasAI**](https://github.com/sanikad20/ethack_genai) | Multi-agent RAG for industrial knowledge (ET AI Hackathon 2026). Knowledge, Maintenance & Lessons Learned agents, citations, conflict detection, OpenTelemetry tracing | Python, FastAPI, ChromaDB, Docker |
+| [**GridLock**](https://github.com/sanikad20/Gridlock_phase2) | Traffic congestion forecaster, **Top 1,635 teams** at Flipkart GRiD. OOF target encoding, cost-matrix tuning, SHAP explainability, Streamlit + Groq chat | LightGBM, CatBoost, SHAP, Streamlit |
+| [**FaceGate**](https://github.com/yashkrishangupta/facegate-android) | On-device, offline-first face recognition with **sub-1s** recognition and a 5-stage frame quality checker (built at Reagvis Labs) | OpenCV, ML Kit, MobileFaceNet |
+| [**InSync**](https://github.com/pragatikharat17/insync-app) | Hormone-health PWA with streaming AI chat over data for **546 Indian & Western foods** | Next.js, Supabase, Vercel, Groq |
+| [**BrainLag**](https://github.com/sanikad20/brainlag) | Burnout detection on the StudentLife dataset (IEEE paper project) | MLP, LSTM, FastAPI |
 
 ---
 
